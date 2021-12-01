@@ -1,0 +1,45 @@
+export const projects = [{
+        title: 'MERN Memories',
+        description: "Using React, Node.js, Express & MongoDB I learned how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives or on their journey.",
+        image: '/images/1.png',
+        tags: ['Mongo', 'Express', 'React', 'Node'],
+        source: 'https://google.com',
+        visit: 'https://google.com',
+        id: 0,
+    },
+    {
+        title: 'Alan AI Weather Application',
+        description: "Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. It allows you to control absolutely everything in the app using your voice.",
+        image: 'https://camo.githubusercontent.com/64fc387d5bfc4f8ea8aa2c9c18b616d25a90dbaa7828faf989bb372110ae32e1/68747470733a2f2f692e6962622e636f2f5356794b364e682f53637265656e73686f742d323032302d30382d30332d61742d32312d32342d32332e706e67',
+        tags: ['React', 'JavaScript'],
+        source: 'https://google.com',
+        visit: 'https://google.com',
+        id: 1,
+    },
+    {
+        title: 'Crypto Application',
+        description: "In this project I have created a cryptocurrency application with the help of not only React but multiple APIs powered by https://rapidapi.com.",
+        image: 'https://camo.githubusercontent.com/06005647905522c1c8a706b5b54b42199822f022a8857491f64bbd2c90eefde8/68747470733a2f2f692e6962622e636f2f386768354a63382f696d6167652e706e67',
+        tags: ['React', 'WebRTC'],
+        source: 'https://google.com',
+        visit: 'https://google.com',
+        id: 2,
+    },
+    {
+        title: 'Google Clone',
+        description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+        image: '/images/4.jpg',
+        tags: ['React', 'ChatEngine', 'Firebase'],
+        source: 'https://google.com',
+        visit: 'https://google.com',
+        id: 3,
+    },
+];
+
+export const TimeLineData = [
+    { year: 2021, month: 'February', text: 'My first "hello world" project', },
+    { year: 2021, month: 'April', text: 'First experience with website projects', },
+    { year: 2021, month: 'August', text: 'First Javascript project experience', },
+    { year: 2021, month: 'September', text: 'First React project experience', },
+    { year: 2021, month: 'October', text: 'First Full Stack project experience', },
+];
