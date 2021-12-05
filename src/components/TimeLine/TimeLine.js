@@ -44,7 +44,11 @@ const Timeline = () => {
 
   return (
     <Section id="about">
+      <br />
+      <SectionDivider />
+      <br /><br /><br />
       <SectionTitle>About Me</SectionTitle>
+      <br />
       <SectionText>I am a 28 year old web developer from Cape Town, South Africa.</SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
@@ -125,7 +129,7 @@ const Timeline = () => {
 
       </CarouselButtons>
 
-      <SectionDivider />
+      
 
     </Section>
   );

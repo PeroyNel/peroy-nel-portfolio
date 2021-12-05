@@ -21,7 +21,9 @@ const projectDemo = [{
 const Projects = () => (
   <Section nopadding id="projects">
     <SectionDivider />
+    <br />
     <SectionTitle main>Projects</SectionTitle>
+    <br />
     <GridContainer>
       {projects.map(({ id, image, title, description, tags, source, visit }) => (
         <BlogCard key={id}>
