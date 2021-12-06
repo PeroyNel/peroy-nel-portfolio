@@ -11,7 +11,7 @@ const Technologies = () =>  (
     <SectionTitle>Technologies</SectionTitle>
     <br />
     <SectionText>
-      I have worked with a number of technologies related to web development. From Back-end To Design
+      I have worked with a number of technologies related to software development with a focus on React.JS, Node.JS, Express, Redux, Axios and MongoDB.
     </SectionText>
     <List>
       <ListItem>
@@ -19,8 +19,12 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            React.js
+             
+            React.JS <br />
+            Material-UI <br />
+            TailwindCSS
+
+
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -29,8 +33,11 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Node.js and MongoDB
+            
+            Node.JS <br />
+            Express <br />
+            Redux <br />
+            MongoDB
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -39,8 +46,9 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            tools like Figma
+            
+            Figma <br />
+            Photoshop
           </ListParagraph>
         </ListContainer>
       </ListItem>

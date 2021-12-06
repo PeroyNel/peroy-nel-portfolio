@@ -19,7 +19,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Peroy Nel - Web Developer</Slogan>
+          <Slogan>Peroy Nel - Software Developer</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/PeroyNel">
