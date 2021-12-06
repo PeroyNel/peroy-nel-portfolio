@@ -26,11 +26,11 @@ const Footer = () => {
             <AiFillGithub size="3rem" />
           </SocialIcons>
 
-          <SocialIcons href="https://linkedin.com">
+          <SocialIcons href="https://www.linkedin.com/in/peroy-nel/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
 
-          <SocialIcons href="https://instagram.com">
+          <SocialIcons href="https://www.instagram.com/peroynel/">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>
