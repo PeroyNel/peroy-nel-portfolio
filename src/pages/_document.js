@@ -31,6 +31,8 @@ export default class MyDocument extends Document {
     return (
       <Html lang='en-GB'>
         <Head>
+          <title>Peroy Nel</title>
+          <link rel="icon" href="https://cdn0.iconfinder.com/data/icons/development-2/24/terminal-512.png" />
           <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
         </Head>
         <body>
