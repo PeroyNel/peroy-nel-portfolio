@@ -19,9 +19,12 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle> 
           <ListParagraph>
+            HTML <br />
+            CSS <br />
+            Javascript <br />
              
-            React.JS <br />
-            Material-UI <br />
+            ReactJS <br />
+          
             TailwindCSS
 
 
@@ -34,7 +37,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             
-            Node.JS <br />
+            NodeJS <br />
             Express <br />
             Redux <br />
             MongoDB

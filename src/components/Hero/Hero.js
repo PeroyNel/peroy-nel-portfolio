@@ -3,9 +3,20 @@ import React from 'react';
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
+import { saveAs } from "file-saver";
+
+const saveFile = () => {
+  saveAs(
+    "https://drive.google.com/file/d/1fogXa6BisMBW3UOnpTClThJfMOoM25Za",
+    "Peroy Nel Resume 2022.pdf"
+  );
+};
+
 
 const Hero = (props) => (
+    
   <Section row nopadding>
+    
     <LeftSection>
       <SectionTitle main center>
         Welcome to <br /> 
@@ -15,7 +26,7 @@ const Hero = (props) => (
       <SectionText>
         I am a Software Developer.
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+      <Button onClick={saveFile}>Download Resume</Button>
     </LeftSection>
 
   </Section>

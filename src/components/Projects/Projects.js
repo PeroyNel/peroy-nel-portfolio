@@ -49,7 +49,7 @@ const Projects = () => (
 
             </ExternalLinks>
             <ExternalLinks href={source}>
-              Source
+              Live
 
             </ExternalLinks>
           </UtilityList>
