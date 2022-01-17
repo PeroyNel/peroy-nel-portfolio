@@ -50,6 +50,7 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <br />
       <SectionText>I am passionate about learning the latest technologies available to developers in either a Front End or Back End capacity. I enjoy creating applications that are well designed and responsive, in addition to being user friendly. I consider myself to be a versatile developer with interests in Software Development and Software Engineering.</SectionText>
+      {/*
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
@@ -127,7 +128,8 @@ const Timeline = () => {
 
         ))}
 
-      </CarouselButtons>
+      </CarouselButtons> 
+        */}
 
       
 

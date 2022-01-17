@@ -8,10 +8,10 @@ const Technologies = () =>  (
     <br />
     <SectionDivider />
     <br /><br /><br />
-    <SectionTitle>Technologies</SectionTitle>
-    <br />
+    <SectionTitle>Technologies </SectionTitle>
+    
     <SectionText>
-      I have worked with a number of technologies related to software development with a focus on React.JS, Node.JS, Express, Redux, Axios and MongoDB.
+    <br /> I have worked with a number of technologies related to software development with a focus on React.JS, Node.JS, Express, Redux, Axios and MongoDB.
     </SectionText>
     <List>
       <ListItem>
