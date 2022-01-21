@@ -14,7 +14,7 @@ export const projects = [{
         image: '/images/3.PNG',
         tags: ['React', 'Ant Design', 'Redux', 'Axios', 'ChartJS'],
         source: 'https://crypto-dash-app.netlify.app/',
-        visit: 'https://github.com/PeroyNel/crypto-dashboard-deploy',
+        visit: 'https://github.com/PeroyNel/crypto-dashboard-app',
         id: 1,
 
     },
