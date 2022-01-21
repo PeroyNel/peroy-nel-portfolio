@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
+import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillTwitter } from 'react-icons/ai';
 import { DiTerminal } from 'react-icons/di';
 
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles';
@@ -53,6 +53,9 @@ const Header = () =>  (
 
       <SocialIcons href="https://www.instagram.com/peroynel/">
         <AiFillInstagram size="3rem" />
+      </SocialIcons>
+      <SocialIcons href="https://www.twitter.com/peroynel/">
+        <AiFillTwitter size="3rem" />
       </SocialIcons>
     </Div3>
   </Container>
