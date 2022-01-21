@@ -7,7 +7,7 @@ import { saveAs } from "file-saver";
 
 const saveFile = () => {
   saveAs(
-    "https://docs.google.com/document/d/1E8CYihis0dvPtI41aCoh89uQ8pBySuxya6USodppVMg",
+    "https://drive.google.com/file/d/1fogXa6BisMBW3UOnpTClThJfMOoM25Za",
     "Peroy Nel Resume 2022.pdf"
   );
 };
